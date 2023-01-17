@@ -7,7 +7,7 @@
 ## Detailed Schedule (subject to change depending on our progress)
 
 
-| **Lecture** |** Date**    | **Content**                                                                                                                                       | **Evaluation** |
+| **Lecture** |**Date**    | **Content**                                                                                                                                       | **Evaluation** |
 | ------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 |         |         |                                                                                                                                               |            |
 | 1       | 1/18/23 | **Basics (I)**: Syllabus, Brief Review                                                                                                    |            |
