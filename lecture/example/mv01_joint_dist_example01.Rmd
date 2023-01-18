@@ -139,6 +139,14 @@ What do we learn here? We learn two things (which combination is more likely):
 
 ## Visualization in 2D and Contour Plot
 
+[Contour plots | Multivariable calculus | Khan Academy - YouTube](https://www.youtube.com/watch?v=WsZj5Rb6do8)
+
+A contour plot is a graphical representation of a three-dimensional surface, where the x and y axis represent the independent variables and the z axis represents the dependent variable. The contour plot shows the levels of the dependent variable (usually represented by different colors or shades) in relation to the independent variables. Contour lines connect points of equal value and are often used to identify regions of constant value or to show the slope of the surface. The closer the contour lines are together, the steeper the slope. The farther apart the contour lines are, the flatter the slope.
+
+
+
+
+
 ```{r message=FALSE}
 #install.packages("plotly")
 library(plotly)
